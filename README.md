@@ -1,0 +1,1 @@
+# ordenacaoNaoOtima-PYTHON-2023.1
