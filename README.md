@@ -15,7 +15,7 @@ Código realizado para Busca no Vetor em Python, realizado em aula juntamente ao
 #
 3. *Insertion Sort*
 - É um algoritmo composto por dois laços de repetição aninhados no qual consideramos um vetor com duas partes: A primeira ordenada, a segunda desordenada. O laço mais interno é responsável por inserir um elemento da parte desordenada na parte ordenada do vetor
-- Complexidade de tempo no PIOR CASO Selection Sort = _O(n²)_ *Se já estiver ordenado, roda em O(n)
+- Complexidade de tempo no PIOR CASO Selection Sort = _O(n²)_ *Se já estiver ordenado, roda em _O(n)_*
 - Complexidade de espaço = _O(n)_
 #
 4. *Shell Sort*
